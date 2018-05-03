@@ -1,11 +1,13 @@
-title: generic-scratch3-paint-new-backdrop
+title: Paint a new Scratch 3 backdrop
 hero_image: images/banner.png
-description: generic-scratch3-paint-new-backdrop description
-version: 4
+description: How to paint a new Scratch 3 backdrop
+theme: cc-prototype 
+duration: 1 
 listed: false
+ingredient: true
 copyedit: false
-last_tested: "2018-05-03"
+interests: 
+technologies: "scratch"
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Paint a new backdrop
+  
