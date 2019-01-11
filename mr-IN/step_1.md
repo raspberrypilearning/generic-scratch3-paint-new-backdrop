@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ खाली उजव्या बाजूला **बॅकड्रॉप** चिन्ह निवडा आणि "पेंट" वर क्लिक करा
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![नवीन पार्श्वभूमी रंगवा](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Costumes** tab to paint your backdrop.
++ आपल्या बॅकड्रॉपला पेंट करण्यासाठी **कॉस्ट्युम्स** टॅबमध्ये ड्रॉईंग टूल्स वापरा.
 
-![drawing tools](images/paint_tools.png)
+![रेखाचित्र साधने](images/paint_tools.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ जेव्हा आपण संपवाल तेव्हा आपले नवीन पार्श्वभूमी एक अर्थपूर्ण नाव देणे विसरू नका.
