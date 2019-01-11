@@ -1,14 +1,14 @@
 ---
-title: Paint a new Scratch 3 backdrop
-hero_image: images/banner.png
-description: How to paint a new Scratch 3 backdrop
-theme: cc-prototype
+title: नवीन स्क्रॅच 3 बॅकड्रॉप रंगवा
+hero_image: प्रतिमा / banner.png
+description: नवीन स्क्रॅच 3 बॅकड्रॉप कसे पेंट करावे
+theme: सीसी-प्रोटोटाइप
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
 interests:
-technologies: "scratch"
+technologies: "स्क्रॅच"
 steps:
   - 
-    title: Paint a new backdrop
+    title: नवीन पार्श्वभूमी पेंट करा
