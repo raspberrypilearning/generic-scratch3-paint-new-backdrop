@@ -1,4 +1,4 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Selecteer het pictogram **achtergrond** in de rechterbenedenhoek en klik op "Tekenen"
 
 ![paint new backdrop](images/paint_backdrop_icon.png)
 
