@@ -1,9 +1,9 @@
 + Selecteer het pictogram **achtergrond** in de rechterbenedenhoek en klik op "Tekenen"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![teken nieuwe achtergrond](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Costumes** tab to paint your backdrop.
++ Gebruik de tekenhulpmiddelen op het tabblad **Achtergronden** om je achtergrond te tekenen.
 
-![drawing tools](images/paint_tools.png)
+![tekenhulpmiddelen](images/paint_tools.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Vergeet niet om je achtergrond een goede naam te geven als je klaar bent.
