@@ -2,7 +2,7 @@
 
 ![teken nieuwe achtergrond](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Gebruik de tekenhulpmiddelen op het tabblad **Achtergronden** om je achtergrond te tekenen.
 
 ![tekenhulpmiddelen](images/paint_tools_annotated.png)
 
