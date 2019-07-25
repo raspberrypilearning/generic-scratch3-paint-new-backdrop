@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Wähle das Symbol **Bühnenbild** unten rechts und klicke auf "Malen"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![neuen Hintergrund malen](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Verwende die Zeichenwerkzeuge im Register **Bühnenbilder**, um dein neues Bühnenbild zu zeichnen.
 
-![drawing tools](images/paint_tools_annotated.png)
+![Zeichenwerkzeuge](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Wenn du fertig bist, vergiss nicht, deiner neuen Kulisse einen vernünftigen Namen zu geben.
