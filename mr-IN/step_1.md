@@ -2,7 +2,7 @@
 
 ![नवीन पार्श्वभूमी रंगवा](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ आपल्या बॅकड्रॉपला पेंट करण्यासाठी **कॉस्ट्युम्स(Costumes)** टॅबमध्ये ड्रॉईंग टूल्स वापरा.
 
 ![रेखाचित्र साधने](images/paint_tools_annotated.png)
 
