@@ -1,8 +1,8 @@
 ---
-title: Paint a new Scratch 3 backdrop
-hero_image: images/banner.png
-description: How to paint a new Scratch 3 backdrop
-theme: cc-prototype
+title: නව Scratch 3 පසුබිමක්(backdrop) පින්තාරු(paint) කරන්න
+hero_image: images / banner.png
+description: නව Scratch 3 පසුබිමක්(backdrop) පින්තාරු(paint) කරන්නේ කෙසේද
+theme: cc-ප්‍රදර්ශකය
 duration: 1
 listed: false
 ingredient: true
@@ -11,4 +11,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Paint a new backdrop
+    title: නව පසුබිමක්(backdrop) පින්තාරු(paint) කිරීම
