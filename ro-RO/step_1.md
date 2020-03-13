@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Selectează pictograma **Alege un decor** din dreapta jos, iar apoi dă click pe „Desenează”
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![desenează un nou fundal](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Folosește instrumentele de desenat din tab-ul **Decoruri** pentru a desena fundalul tău.
 
-![drawing tools](images/paint_tools_annotated.png)
+![insturmente de desenat](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ După ce ai terminat, nu uita să dai un nume potrivit noului tău fundal.
