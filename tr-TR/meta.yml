@@ -1,7 +1,7 @@
 ---
-title: Scratch 3'te yeni bir dekor çizme
+title: Paint a new Scratch 3 backdrop
 hero_image: images/banner.png
-description: Scratch 3'te yeni bir dekor nasıl çizilir
+description: How to paint a new Scratch 3 backdrop
 theme: cc-prototype
 duration: 1
 listed: false
@@ -11,4 +11,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Yeni bir dekor çiz
+    title: Paint a new backdrop
