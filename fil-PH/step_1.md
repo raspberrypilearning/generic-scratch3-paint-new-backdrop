@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Piliin ang **backdrop** icon sa kanang ibaba at i-click sa "Paint"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![magkulay ng bagong backdrop](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Gamitin ang mga tools ng pagguhit sa tab na **Backdrops** upang kulayan ang iyong backdrop.
 
-![drawing tools](images/paint_tools_annotated.png)
+![mga tools na pangguhit](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Kapag natapos mo na, huwag kalimutang bigyan ang iyong bagong backdrop ng isang pangalan.
