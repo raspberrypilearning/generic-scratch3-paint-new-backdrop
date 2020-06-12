@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ اختر ايقونة **الخلفية** في أسفل اليمين وانقر على "رسام"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![رسم خلفية جديدة](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ استخدم أداة الرسم في علامة التبويب **الخلفيات** لرسم الخلفية الجديدة.
 
-![drawing tools](images/paint_tools_annotated.png)
+![أدوات جديدة للرسم](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ عندما تنتهي, لا تنسى أن تعطي الخلفية الجديدة إسم معقول.
