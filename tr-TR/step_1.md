@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Sağ alttaki **Bir Dekor Seç** simgesinin üzerine gelin ve "Çizim" seçeneğini tıklayın
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![yeni dekor çizme](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Dekorunuzu çizmek için **Dekorlar** sekmesindeki çizim araçlarını kullanın.
 
-![drawing tools](images/paint_tools_annotated.png)
+![çizim araçları](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Bitirdiğinizde, yeni dekora anlamlı bir isim vermeyi unutmayın.
