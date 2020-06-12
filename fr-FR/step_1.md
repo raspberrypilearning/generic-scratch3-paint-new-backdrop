@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Sélectionne l'icône **arrière plan** en bas à droite et clique sur « Peindre »
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![peindre un nouvel arrière-plan](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Utilise les outils de dessin dans l'onglet **Arrière-plan** pour peindre ton arrière-plan.
 
-![drawing tools](images/paint_tools_annotated.png)
+![outils de dessin](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Quand tu as terminé, n’oublie pas de donner à ton nouvel arrière-plan un nom sensé.
