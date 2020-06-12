@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ آیکون **پس زمینه** در قسمت پایین سمت چپ را انتخاب کنید و بر روی "نقاشی" کلیک کنید
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![پس زمینه جدید بکشید](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ از ابزارهای طراحی در قسمت **پس زمینه** استفاده کنید تا پس زمینه خودتان را بکشید.
 
-![drawing tools](images/paint_tools_annotated.png)
+![ابزارهای نقاشی](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ هنگامی که کار شما به پایان رسید، فراموش نکنید که یک نام مناسب برای پس زمینه جدیدتان انتخاب کنید.
