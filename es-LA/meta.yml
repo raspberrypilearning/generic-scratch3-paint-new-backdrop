@@ -1,7 +1,7 @@
 ---
-title: Paint a new Scratch 3 backdrop
+title: Pinta un nuevo fondo de Scratch 3
 hero_image: images/banner.png
-description: How to paint a new Scratch 3 backdrop
+description: Cómo pintar un nuevo fondo de Scratch 3
 theme: cc-prototype
 duration: 1
 listed: false
@@ -11,4 +11,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Paint a new backdrop
+    title: Pintar un nuevo fondo
