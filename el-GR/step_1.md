@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Επίλεξε το **Επιλέξτε Υπόβαθρο** κάτω δεξιά και κάνε κλικ στο "Ζωγραφική"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![σχεδιασμός νέου υποβάθρου](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Χρησιμοποίησε το εργαλείο σχεδίασης της καρτέλας **Υπόβαθρα** για να ζωγραφίσεις το νέο σου υπόβαθρο.
 
-![drawing tools](images/paint_tools_annotated.png)
+![εργαλεία σχεδίασης](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Όταν τελειώσεις μην ξεχάσεις να δώσεις στο νέο σου υπόβαθρο ένα όνομα που θα αποδίδει τη σημασία του.
