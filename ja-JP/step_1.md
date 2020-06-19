@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ 右下の**背景**アイコンを選択し、「描く」（えがく）をクリックします。
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![新たな背景を描（えが）く](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ **背景**タブにある描画（びょうが）ツールを使って背景を描（えが）きます。
 
-![drawing tools](images/paint_tools_annotated.png)
+![描画（びょうが）ツール](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ できあがったら、背景にわかりやすい名前をつけるのを忘れないようにしましょう。
