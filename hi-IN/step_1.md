@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ नीचे दाईं ओर **backdrop** आइकन का चयन करें, और "Paint" पर क्लिक करें
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![नई पृष्ठभूमि पेंट करें](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ अपनी पृष्ठभूमि को चित्रित करने के लिए **Backdrops** टैब्स में ड्राइंग टूल का उपयोग करें |
 
-![drawing tools](images/paint_tools_annotated.png)
+![चित्रकारी के औज़ार](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ जब आप समाप्त कर लें, तो अपनी नई पृष्ठभूमि को एक समझदार नाम देना न भूलें।
