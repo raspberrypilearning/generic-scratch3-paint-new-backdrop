@@ -1,7 +1,7 @@
 ---
-title: Paint a new Scratch 3 backdrop
+title: Scrach 3で新たな背景を描（えが）く
 hero_image: images/banner.png
-description: How to paint a new Scratch 3 backdrop
+description: Scratch 3で新たな背景を描（えが）く方法
 theme: cc-prototype
 duration: 1
 listed: false
@@ -11,4 +11,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Paint a new backdrop
+    title: 新しい背景を描（えが）く
