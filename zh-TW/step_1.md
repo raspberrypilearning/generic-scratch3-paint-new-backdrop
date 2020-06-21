@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ 選擇在右下角的 **背景** 圖示，然後點擊"繪畫"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![繪製新背景](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ 在**背景**選單中，使用繪圖工具來繪制您想要的背景。
 
-![drawing tools](images/paint_tools_annotated.png)
+![繪圖工具](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ 完成後，別忘了幫您的新背景取一個適合的名字。
