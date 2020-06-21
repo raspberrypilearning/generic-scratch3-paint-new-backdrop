@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Selecione o ícone **cenários** no canto inferior direito e clique em "Pintar"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![pintar novo cenário](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Use as ferramentas de desenho na aba **Cenários** para pintar seu cenário.
 
-![drawing tools](images/paint_tools_annotated.png)
+![ferramentas de desenho](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Quando terminar, não se esqueça de dar um bom nome ao seu cenário.
