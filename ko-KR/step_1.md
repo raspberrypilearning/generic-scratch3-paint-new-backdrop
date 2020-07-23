@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ 오른쪽 하단에서 **배경 고르기** 아이콘을 선택하고 "그리기"를 클릭합니다.
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![새로운 배경 그리기](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ 배경을 그리기 위해 **배경** 탭의 그리기 도구를 사용하세요.
 
-![drawing tools](images/paint_tools_annotated.png)
+![그리기 도구](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ 그리기를 끝내면 새 배경에 멋진 이름을 지어주는 것을 잊지 마세요!
