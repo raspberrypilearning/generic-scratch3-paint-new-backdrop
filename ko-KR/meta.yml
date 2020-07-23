@@ -1,7 +1,7 @@
 ---
-title: Paint a new Scratch 3 backdrop
+title: 새로운 스크래치 3 배경 그리기
 hero_image: images/banner.png
-description: How to paint a new Scratch 3 backdrop
+description: 새로운 스크래치 3 배경을 그리는 방법
 theme: cc-prototype
 duration: 1
 listed: false
@@ -11,4 +11,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Paint a new backdrop
+    title: 새로운 배경 그리기
