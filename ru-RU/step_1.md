@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Выбери иконку**фон** в правом нижнем углу и нажми «Нарисовать»
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![нарисовать новый фон](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Используй инструменты рисования из вкладки **Фоны**, чтобы нарисовать свой новый фон.
 
-![drawing tools](images/paint_tools_annotated.png)
+![инструменты рисования](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Когда закончишь, не забудь дать твоему новому фону понятное имя.
