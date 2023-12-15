@@ -1,9 +1,9 @@
-+ Select the **backdrop** icon in the bottom right and click on "Paint"
++ Клацни іконку **тло** в нижньому правому куточку і вибери "Намалювати"
 
-![paint new backdrop](images/paint_backdrop_icon.png)
+![намалюй нове тло](images/paint_backdrop_icon.png)
 
-+ Use the drawing tools in the **Backdrops** tab to paint your backdrop.
++ Використовуй інструменти для малювання на вкладці **Тло**, щоб намалювати своє тло.
 
-![drawing tools](images/paint_tools_annotated.png)
+![інструменти для малювання](images/paint_tools_annotated.png)
 
-+ When you are finished, don’t forget to give your new backdrop a sensible name.
++ Коли закінчиш, не забудь дати своєму тлу логічне ім’я.
