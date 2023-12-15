@@ -1,7 +1,7 @@
 ---
-title: एक नया Scratch 3 पृष्ठभूमि पेंट करें
+title: नया Scratch 3 बैकड्रॉप पेंट करें
 hero_image: images/banner.png
-description: एक नया Scratch 3 पृष्ठभूमि कैसे पेंट करें
+description: नया Scratch 3 बैकड्रॉप कैसे पेंट करें
 theme: cc-prototype
 duration: 1
 listed: false
@@ -11,4 +11,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: एक नई पृष्ठभूमि पेंट करें
+    title: नई बैकड्रॉप पेंट करें
